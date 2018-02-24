@@ -1,0 +1,55 @@
+.box {
+	height: 50px;
+	width: 20%;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 0px;
+	padding: 3px;
+	font-size: 10pt;
+	display: inline-block;
+}
+
+.boxtwo {
+	height: 50px;
+	width: 80%;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 0px;
+	padding: 3px;
+	font-size: 10pt;
+	display: inline-block;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0px;
+}
+
+li {
+	height: 50px;
+	width: 20%;
+	border-color: black;
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 10px;
+	padding: 3px;
+	font-size: 10pt;
+}
+
+a:visited {
+	color: black;
+}
+
+a:link {
+	color: black;
+}
+
+a:hover {
+	color: black;
+}
+
+a:active {
+	color: black;
+}
