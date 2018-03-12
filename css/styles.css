@@ -160,3 +160,11 @@ footer {
 	top: 0;
 	min-height: 800px;
 }
+
+.image {
+	width: 100%;
+	position: absolute;
+	top: 0px;
+	left: 0px;
+	z-index: -1;
+}
