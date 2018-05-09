@@ -28,6 +28,35 @@ document.getElementById("ayear").onmouseout = function() {
 	console.log("1")
 }
 
+document.getElementById("babyblock").onmouseover = function() {
+	document.getElementById("babyblockpic").style.display = "block";
+	console.log("1")
+}
+
+document.getElementById("babyblock").onmouseout = function() {
+	document.getElementById("babyblockpic").style.display = "none";
+	console.log("1")
+}
+
+document.getElementById("employee").onmouseover = function() {
+	document.getElementById("employeepic").style.display = "block";
+	console.log("1")
+}
+
+document.getElementById("employee").onmouseout = function() {
+	document.getElementById("employeepic").style.display = "none";
+	console.log("1")
+}
+
+document.getElementById("friend").onmouseover = function() {
+	document.getElementById("friendpic").style.display = "block";
+	console.log("1")
+}
+
+document.getElementById("friend").onmouseout = function() {
+	document.getElementById("friendpic").style.display = "none";
+	console.log("1")
+}
 
 
 

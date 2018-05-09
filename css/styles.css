@@ -162,6 +162,17 @@ footer {
 }
 
 .image {
+	display: none;
+	position: absolute;
+	width: 150%;
+	overflow-x: hidden;
+	z-index: -1;
+	left: 0;
+	top: 0;
+	min-height: 800px;
+}
+
+.image {
 	width: 100%;
 	position: absolute;
 	top: 0px;
